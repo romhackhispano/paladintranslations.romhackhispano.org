@@ -1,0 +1,72 @@
+.tablas {
+	FONT-SIZE: 7px; FONT-FAMILY: "Verdana", Helvetica, serif; BACKGROUND-COLOR: transparent; fot-weight: bold
+}
+.propnotis {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 15px; BACKGROUND-IMAGE: url(/imag/fondo.png); PADDING-TOP: 10px
+}
+.textwhitebold {
+	FONT-WEIGHT: bold; FONT-SIZE: 6.5pt; FONT-FAMILY: "Verdana", Helvetica, serif; BACKGROUND-COLOR: transparent
+}
+.textwhite {
+	FONT-SIZE: 8pt; COLOR: #731e09; FONT-FAMILY: "Verdana", Helvetica, serif; BACKGROUND-COLOR: transparent
+}
+.textblack {
+	FONT-SIZE: xx-small; COLOR: #000000; FONT-FAMILY: "Verdana", Helvetica, serif; BACKGROUND-COLOR: transparent
+}
+.textblue {
+	FONT-SIZE: xx-small; COLOR: #00008b; FONT-FAMILY: "Verdana", Helvetica, serif; BACKGROUND-COLOR: transparent
+}
+.textbluebold {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #2f2f4f; FONT-FAMILY: "Arial", Helvetica, serif; BACKGROUND-COLOR: transparent
+}
+.texttitulo {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: #731e09; FONT-FAMILY: "Tahoma", Helvetica, serif; BACKGROUND-COLOR: transparent
+}
+.bordcolor {
+	BORDER-LEFT-COLOR: #000000; BORDER-BOTTOM-COLOR: #000000; BORDER-TOP-COLOR: #000000; BORDER-RIGHT-COLOR: #000000
+}
+.notis {
+	PADDING-LEFT: 15px; BACKGROUND-IMAGE: url(/imag/fondo.png); PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.ultitab {
+	BACKGROUND-IMAGE: url(/imag/lado5.png)
+}
+A:link {
+	COLOR: #a52a2a; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #a52a2a; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+#fondo {
+	BACKGROUND-IMAGE: url(/imag/lado1.png)
+}
+#fondo2 {
+	BACKGROUND-IMAGE: url(/imag/lado5.png)
+}
+#fondo3 {
+	BACKGROUND-IMAGE: url(/imag/fondo.png)
+}
+#fondo4 {
+	BACKGROUND-IMAGE: url(/imag/palalogo.jpg)
+}
+#fondo5 {
+	BACKGROUND-IMAGE: url(/imag/fondo.gif)
+}
+#fondonoti {
+	BACKGROUND-IMAGE: url(/imag/fondo.png)
+}
+#notis {
+	BACKGROUND-IMAGE: url(/imag/fondo.png)
+}
+#ultitab {
+	BACKGROUND-IMAGE: url(/imag/lado5.png)
+}
+#bordcol {
+	BORDER-LEFT-COLOR: #000000; BORDER-BOTTOM-COLOR: #000000; BORDER-TOP-COLOR: #000000; BORDER-RIGHT-COLOR: #000000
+}
+#tablas {
+	FONT-SIZE: 6px; FONT-FAMILY: "Verdana", Helvetica, serif; BACKGROUND-COLOR: transparent; fot-weight: bold
+}
